@@ -1,0 +1,39 @@
+# Reemplazar los bullets con caracteres compatibles para evitar errores de codificación
+summary = (
+    "Motivated Junior Data Analyst with a strong foundation in data analysis, visualization, and reporting. "
+    "Graduate of the TripleTen Data Analytics Bootcamp, with 10 years of experience in the tourism industry. "
+    "Known for excellent communication skills, multilingual fluency, and a passion for turning data into actionable insights. "
+    "Currently seeking an entry-level data role in Switzerland."
+)
+
+skills = (
+    "- Languages & Tools: SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau\n"
+    "- Other: Data Cleaning, Data Visualization, Business Intelligence, Git/GitHub\n"
+    "- Languages: Spanish (native), English (C1), French (B2), Italian (B2), German (A1)"
+)
+
+education = (
+    "TripleTen Bootcamp — Data Analyst Certificate\n"
+    "2024 – Online\n"
+    "- Projects: Data cleaning, SQL queries, dashboards, and A/B testing\n"
+    "- Tools: Jupyter, Pandas, Power BI, Excel, Tableau\n\n"
+    "Universidad De La Salle Bajío — BA in Modern Languages\n"
+    "Graduation Year – León, México"
+)
+
+experience = (
+    "Tourism & Hospitality Industry\n"
+    "Various roles – 2013 to 2023\n"
+    "- Managed multicultural client relations, bookings, and service operations.\n"
+    "- Developed internal reports to track customer satisfaction and sales.\n"
+    "- Trained and led teams in high-pressure environments.\n"
+    "- Strengthened analytical thinking and cross-cultural communication skills."
+)
+
+projects = (
+    "- Sales Dashboard in Power BI – Analyzed booking data to find trends and seasonal patterns.\n"
+    "- Customer Review Analysis – Used Python to identify satisfaction trends from 1,000+ reviews.\n"
+    "- A/B Test Simulation – Tested pricing strategies and interpreted statistical results."
+)
+
+# Crear nuevo PDF con
