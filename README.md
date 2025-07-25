@@ -2,7 +2,7 @@
 
 🎯 Junior Data Analyst | 🇲🇽🇪🇸 Bilingual (ES/EN) | Passionate about data with a human touch
 
-💼 From 10+ years in tourism to data storytelling | Currently finishing a Data Analytics Bootcamp @ TripleTen
+💼 From 10+ years in tourism | Currently finishing a Data Analytics Bootcamp @ TripleTen
 
 🌍 I speak 4 languages and love discovering insights that connect people, places, and decisions.
 
@@ -23,5 +23,5 @@
 - Project deployment
 
 ## 💌 Let's Connect!
-📧 maranalyzes@gmail.com  
+📧 alvarezliramar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/margarita-a-a2a986200) 
